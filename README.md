@@ -13,7 +13,7 @@
 > synthwave_bg: #2b213a
 -->
 
-<h1 align="center">Hey There! 👋, I'm Sarbhanu</h1><h4 align="left">I am an engineer driven by curiosity in statistics, data, analytics, and machine learning experimentation.</h4>
+<h1 align="center">Hey there! 👋, I'm Sarbhanu</h1><h4 align="left">I am an engineer driven by curiosity in statistics, data, analytics, and machine learning experimentation.</h4>
 
 <html>
 <body>

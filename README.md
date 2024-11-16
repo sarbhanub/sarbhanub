@@ -115,24 +115,24 @@
 <div align="center">
     <picture>
         <source
-        srcset="https://github-readme-stats.vercel.app/api/?username=sarbhanub&title_color=535353&text_color=535353&icon_color=535353&bg_color=00000000&hide_border=true&show_icons=true"
+        srcset="https://github-readme-stats.vercel.app/api/?username=sarbhanub&card_width=450&title_color=535353&text_color=535353&icon_color=535353&bg_color=00000000&hide_border=true&border_radius=0&show_icons=true"
         media="(prefers-color-scheme: light)"
         />
         <source
-        srcset="https://github-readme-stats.vercel.app/api/?username=sarbhanub&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=00000000&hide_border=true&show_icons=true"
+        srcset="https://github-readme-stats.vercel.app/api/?username=sarbhanub&card_width=450&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=00000000&hide_border=true&border_radius=0&show_icons=true"
         media="(prefers-color-scheme: dark)"
         />
-        <img height=180px alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=sarbhanub&title_color=535353&text_color=535353&icon_color=535353&bg_color=00000000&hide_border=true&show_icons=true" />
+        <img height=180px alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=sarbhanub&card_width=450&title_color=535353&text_color=535353&icon_color=535353&bg_color=00000000&hide_border=true&border_radius=0&show_icons=true" />
     </picture>
     <picture>
         <source
-        srcset="https://streak-stats.demolab.com/?user=sarbhanub&theme=icegray&background=00000000&stroke=00000000&ring=535353&fire=535353&hide_border=true&border_radius=0&disable_animations=true"
+        srcset="https://streak-stats.demolab.com/?user=sarbhanub&card_height=195&card_width=396&theme=icegray&background=00000000&stroke=00000000&ring=dcdcdc&fire=535353&hide_border=true&border_radius=0&mode=weekly"
         media="(prefers-color-scheme: light)"
         />
         <source
-        srcset="https://streak-stats.demolab.com/?user=sarbhanub&theme=sea&background=00000000&stroke=00000000&ring=ffffff&fire=ffffff&hide_border=true&border_radius=0&disable_animations=true"
+        srcset="https://streak-stats.demolab.com/?user=sarbhanub&card_height=195&card_width=396&theme=sea&background=00000000&stroke=00000000&ring=dcdcdc&fire=ffffff&hide_border=true&border_radius=0&mode=weekly"
         media="(prefers-color-scheme: dark)"
         />
-        <img height=180px alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=sarbhanub&theme=icegray&background=00000000&stroke=00000000&ring=535353&fire=535353&hide_border=true&border_radius=0&disable_animations=true" />
+        <img height=180px alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=sarbhanub&card_height=195&card_width=396&theme=icegray&background=00000000&stroke=00000000&ring=dcdcdc&fire=535353&hide_border=true&border_radius=0&mode=weekly" />
     </picture>
 </div>

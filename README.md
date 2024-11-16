@@ -130,7 +130,7 @@
         media="(prefers-color-scheme: light)"
         />
         <source
-        srcset="https://streak-stats.demolab.com/?user=sarbhanub&card_height=195&card_width=396&theme=sea&background=00000000&stroke=00000000&ring=dcdcdc&fire=ffffff&hide_border=true&border_radius=0&mode=weekly"
+        srcset="https://streak-stats.demolab.com/?user=sarbhanub&card_height=195&card_width=396&theme=sea&background=00000000&stroke=00000000&ring=3c4044&fire=ffffff&hide_border=true&border_radius=0&mode=weekly"
         media="(prefers-color-scheme: dark)"
         />
         <img height=180px alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=sarbhanub&card_height=195&card_width=396&theme=icegray&background=00000000&stroke=00000000&ring=dcdcdc&fire=535353&hide_border=true&border_radius=0&mode=weekly" />
